@@ -56,5 +56,3 @@ You don’t need to be a coder to contribute. You just need the will to build so
 ## License
 
 MIT — open source, free to use, remix, and build with purpose.
-
-Fix README formatting and content for DEXprimed project overview
