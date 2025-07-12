@@ -1,2 +1,1 @@
-# DEXprimed
-DEXprimed brings together the best AI models, search engines, and knowledge from across the web into one smart, open system. It’s built to share trustworthy answers and inspire new ideas—especially for sustainable, earth-based energy solutions that help communities thrive.
+Added a full project overview to README.md including purpose, vision, key features, and invitation for contributors. DEXprimed is now clearly positioned as a decentralized AI framework rooted in earth-based technology and community empowerment.
